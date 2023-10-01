@@ -2,6 +2,7 @@
 
 This repo records all the web3/crypto/cryptography projects I have audited jointly or independently. 
 
+- Mantle Network
 - Mirror World MPC Wallet
 - Polygon Hermez
 - zkSync L2/Era mainnet
